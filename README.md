@@ -7,7 +7,7 @@ This game made as a challenge.
 
 - Find keys to open grey doors.
 - Shoot brown doors to loot aids.
-- Avoid robots, shoot them, kill them or you wiil die.
+- Avoid robots, shoot them, kill them or you will die.
 - Find the EXIT.
 <br>
 
